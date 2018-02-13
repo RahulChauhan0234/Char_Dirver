@@ -1,0 +1,6 @@
+"# Char_Dirver" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/RahulChauhan0234/Char_Dirver.git
+git push -u origin master
